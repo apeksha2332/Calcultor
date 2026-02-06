@@ -24,7 +24,7 @@ public class Calculation {
 //	                System.out.println("Result: " + result);
 //	                break;
 
-	            case '*':
+	            case '+':
 	                result = num1 * num2;
 	                System.out.println("Result: " + result);
 	                break;
