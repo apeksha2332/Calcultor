@@ -19,10 +19,10 @@ public class Calculation {
 	        double result;
 
 	        switch (operator) {
-	            case '+':
-	                result = num1 + num2;
-	                System.out.println("Result: " + result);
-	                break;
+//	            case '+':
+//	                result = num1 + num2;
+//	                System.out.println("Result: " + result);
+//	                break;
 
 	            case '*':
 	                result = num1 * num2;
