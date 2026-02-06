@@ -24,11 +24,6 @@ public class Calculation {
 	                System.out.println("Result: " + result);
 	                break;
 
-	            case '-':
-	                result = num1 - num2;
-	                System.out.println("Result: " + result);
-	                break;
-
 	            case '*':
 	                result = num1 * num2;
 	                System.out.println("Result: " + result);
@@ -48,6 +43,8 @@ public class Calculation {
 	        }
 
 	        sc.close();
+	        
+	        System.out.print("Apeksha");
 
 	}
 
